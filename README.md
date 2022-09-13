@@ -1,6 +1,6 @@
 # MKVAVI
 
-Is a simple MKV to AVI converter.
+A simple MKV to AVI converter.
 
 ## Requirements
 
@@ -25,7 +25,7 @@ python3 conv.py -i input.mkv -o output.avi
 ```
 
 ## PATH
-To use the script in any directory you can add it to your /usr/local/bin or ~/.local/bin/ directory without the .py extension.
+To use the script in any directory you can add it to your **/usr/local/bin** or **~/.local/bin/** directory without the .py extension.
 Make sure to give the execution permission by doing:
 
 ```bash
