@@ -34,7 +34,7 @@ sudo chmod +x conv
 Your .bashrc or .zshrc file in your home directory needs to contain this line:
 
 ```bash
-PATH=$PATH:/home/kyriefs/.local/bin
+PATH=$PATH:/home/$USER/.local/bin
 ```
 
 ## Contributing
